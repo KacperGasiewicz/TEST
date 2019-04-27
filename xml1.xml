@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player info>
+<player>
+    <name>Manu</name>
+    <surename>Ginobili</surename>
+	<team>San Antonio Spurs</team>
+    <position>Shooting Guard</position>
+    <ppg>13.3</ppg>
+</player>
+<player>
+    <name>Russell</name>
+    <surename>Westbrook</surename>
+	<team>Oklahoma City Thunder</team>
+    <position>Point Guard</position>
+    <ppg>23.0</ppg>
+</player><player>
+    <name>Lebron</name>
+    <surename>James</surename>
+	<team>Los Angeles Lakers</team>
+    <position>Power Forward</position>
+    <ppg>27.2</ppg>
+</player><player>
+    <name>Tim</name>
+    <surename>Duncan</surename>
+	<team>San Antonio Spurs</team>
+    <position>Center</position>
+    <ppg>19.0</ppg>
+</player><player>
+    <name>Manu</name>
+    <surename>Ginobili</surename>
+	<team>San Antonio Spurs</team>
+    <position>Shooting Guard</position>
+    <ppg>13.3</ppg>
+</player><player>
+    <name>De'Aaron</name>
+    <surename>Fox</surename>
+	<team>Sacramento Kings</team>
+    <position>Point Guard</position>
+    <ppg>14.6</ppg>
+</player>
+</player info>
